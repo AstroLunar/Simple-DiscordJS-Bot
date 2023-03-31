@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "discord.js": "^13.14.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "name": "simple-discordjs-bot",
+  "description": "Quite a simple DiscordJS Bot for you to use",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstroLunar/Simple-DiscordJS-Bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "astrolunar"
+  ],
+  "author": "AstroLunar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AstroLunar/Simple-DiscordJS-Bot/issues"
+  },
+  "homepage": "https://github.com/AstroLunar/Simple-DiscordJS-Bot#readme"
+}

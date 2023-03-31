@@ -1,0 +1,8 @@
+{
+    "webserver": {
+        "port":3000
+    },
+    "bot": {
+        "token":"MTA5MTIxMjM0MjQzNzYzMDAzMw.Gp7Md2.2DC_SXsXEUIeOhDWwjKt9713uExaxuU8PLm0HA"
+    }
+}
