@@ -3,7 +3,7 @@
 This repository contains the code to get a simple Discord.js bot up and running with slash commands as well as an ExpressJS webserver.
 
 ## Credits
-Please leave some form of credits to AstroLunar that is publicly visible on your project somewhere, This resource is completely free to use and that's all I ask you do.
+Please leave some form of credits to AstroLunar that is publicly visible on your project somewhere, This resource is completely free to use and that's all I ask you do to support my work, Thank you! :)
 
 ## Installation
 
